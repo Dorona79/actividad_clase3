@@ -1,1 +1,2 @@
-Las actividades para mi fueron muy interesante y me gustaron mucho porque aprendi nuevos conocimientos en cuanto a Python y Visual Studio Code. También me gusto mucho trabajar con repositorios en GibHub.
+ # ACTIVIDAD N° 3 DE PROGRAMACIÓN
+ ### Ejercicios de Datos Complejos en Python
